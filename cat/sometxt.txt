@@ -1,0 +1,22 @@
+
+
+Test file for s21_cat
+blank lines:
+
+
+
+
+это Тестовый Файл
+    <-Tab
+just line
+
+special symbols: 
+
+HehE
+
+he
+HEEE
+
+heheHEheHE
+<<<
+end of file.
